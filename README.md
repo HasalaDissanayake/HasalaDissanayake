@@ -1,5 +1,4 @@
 [![Hasala's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=HasalaDissanayake&hide=prs&show_icons=true&theme=radical)](https://github.com/HasalaDissanayake)
-
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HasalaDissanayake&layout=compact&theme=radical)](https://github.com/HasalaDissanayake)
 
 
